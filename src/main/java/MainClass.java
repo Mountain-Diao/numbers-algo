@@ -68,10 +68,6 @@ public class MainClass {
 
         {
             /**Third implementation*/
-            var two = 2;
-            var three = 3;
-            var five = 5;
-
             var logic = new CheckMultiplicand();
 
             var loopCounter = 0;
